@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmy:home|Door43 (bmy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmy|d43-bmy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmy/archive/master.zip|d43-bmy.zip]]
+
+**Recent Changes**
+{{changes>ns = bmy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmy|Ethnologue data]]
+
